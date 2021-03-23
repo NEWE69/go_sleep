@@ -1,2 +1,2 @@
-# go_sleep
+# Go Sleep
 Auto shutdown script on pc startup [python]
